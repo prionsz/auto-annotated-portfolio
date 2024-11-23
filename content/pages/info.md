@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      I’m a web designer and computer science student specializing in
+      ###### I’m a web designer and computer science student specializing in
       cybersecurity. Born, raised, and based in the Edinburgh, I’m currently a
       free agent with experience crafting websites for businesses.
 
