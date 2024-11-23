@@ -217,18 +217,15 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2024-2027**
 
-          * ba computer sciense at a semi fancy school
+          *   Bachelor of Science in Computer Science and Cybersecurity
 
-          **2014**
+          **2016-2023**
 
-          * react certificate somewhere
+          *   Highers
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
