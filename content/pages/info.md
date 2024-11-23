@@ -180,7 +180,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [lewissnod@hotmail.com](mailto:thisismyemail.@myemail.me)
+      [lewissnod@hotmail.com](mailto:lewissnod@hotmail.com)
   - type: DividerSection
     styles:
       self:
