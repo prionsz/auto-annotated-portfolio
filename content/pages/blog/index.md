@@ -83,4 +83,5 @@ topSections:
         textAlign: center
       text:
         textAlign: center
+metaTitle: Contact
 ---
