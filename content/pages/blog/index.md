@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: CONTACT EM
+title: CONTACT ME
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
