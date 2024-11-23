@@ -5,9 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I built a dynamic website for a painter and decorator, showcasing their
+  talent, boosting their visibility, and helping them secure more clients!
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
