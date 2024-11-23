@@ -13,11 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ###### I’m a web designer and computer science student specializing in
-      cybersecurity. Born, raised, and based in the Edinburgh, I’m currently a
-      free agent with experience crafting websites for businesses.
-
+    text: |-
+      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
+            also where I’m based. I’m currently a free agent, ex-this, ex-that,
+            ex-super big name. When I’m not coding, writing or creating, I eat
+            cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
     media:
       type: ImageBlock
       url: /images/about.jpg
