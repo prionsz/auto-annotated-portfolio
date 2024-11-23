@@ -20,7 +20,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "CONTACT",
                 "url": "/blog"
             }
         ],
@@ -63,7 +63,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "CONTACT",
                 "url": "/blog",
                 "altText": ""
             },
