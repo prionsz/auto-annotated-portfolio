@@ -84,7 +84,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
   - type: CtaSection
-    title: Let's do this
+    title: Any questions?
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
