@@ -66,7 +66,7 @@ topSections:
           textAlign: left
     colors: colors-f
     backgroundSize: full
-    elementId: ''
+    elementId: netlify
     styles:
       self:
         height: auto
