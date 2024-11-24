@@ -89,7 +89,7 @@ sections:
       Contact me here:
     actions:
       - type: Button
-        label: Try it now
+        label: E-MAIL
         altText: ''
         url: 'mailto::lewissnod@hotmail.com'
         showIcon: true
