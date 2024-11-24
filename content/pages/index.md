@@ -85,9 +85,8 @@ sections:
     subtitle: Projects
   - type: CtaSection
     title: Any questions?
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Contact me here:
     actions:
       - type: Button
         label: Try it now
