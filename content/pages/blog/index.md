@@ -37,7 +37,15 @@ topSections:
     form:
       type: FormBlock
       title: Title of the form
+      attributes:
+        name: contact-form
+        method: POST
+        data-netlify: 'true'
+        netlify-honeypot: 'bot-field'
       fields:
+        - type: HiddenFormControl
+          name: bot-field
+          defaultValue: ''
         - type: TextFormControl
           name: name
           label: Name
@@ -47,18 +55,21 @@ topSections:
           isRequired: 'true'
         - type: EmailFormControl
           name: email
-          label: Name
+          label: Email
           hideLabel: true
           placeholder: Your email
           width: 1/2
           isRequired: 'true'
         - type: TextareaFormControl
           name: message
-          label: Write here
+          label: Message
           hideLabel: true
           placeholder: Tell me about your project
           width: full
           isRequired: true
+        - type: HiddenFormControl
+          name: form-name
+          defaultValue: contact-form
       submitLabel: Send Message
       elementId: contact-form
       styles:
