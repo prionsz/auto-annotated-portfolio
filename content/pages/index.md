@@ -90,7 +90,7 @@ sections:
     actions:
       - type: Button
         label: E-MAIL
-        altText: ''
+        altText: Email
         url: 'mailto::lewissnod@hotmail.com'
         showIcon: true
         icon: arrowRight
