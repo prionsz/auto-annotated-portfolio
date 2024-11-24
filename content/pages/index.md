@@ -91,7 +91,7 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: 'mailto::lewissnod@hotmail.com'
         showIcon: true
         icon: arrowRight
         iconPosition: right
