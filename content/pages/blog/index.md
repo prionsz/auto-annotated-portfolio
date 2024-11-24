@@ -41,7 +41,6 @@ topSections:
         name: contact-form
         method: POST
         data-netlify: 'true'
-        netlify-honeypot: 'bot-field'
       fields:
         - type: HiddenFormControl
           name: bot-field
